@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  GoStack FastFeet - Back-end
+  GoStack FastFeet - Mobile App
 </h3>
 
 ### Description ###
